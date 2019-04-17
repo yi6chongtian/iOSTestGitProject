@@ -28,6 +28,10 @@
     
 }
 
+- (void)test2 {
+    
+}
+
 
 /*
 #pragma mark - Navigation
