@@ -35,7 +35,7 @@
 - (void)viewDidDisappear:(BOOL)animated {
     [super viewDidDisappear:animated];
     NSLog(@"feature/1.0.1提交4");
-    NSLog(@"提交5");
+
 }
 
 @end
