@@ -32,4 +32,10 @@
     NSLog(@"feature/1.0.1提交3");
 }
 
+- (void)viewDidDisappear:(BOOL)animated {
+    [super viewDidDisappear:animated];
+    NSLog(@"feature/1.0.1提交4");
+
+}
+
 @end
