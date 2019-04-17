@@ -20,9 +20,8 @@
     NSLog(@"dev分11支提交22");
     NSLog(@"feature/1.0.0提交");
     NSLog(@"feature/1.0.1提交");
-    
-    NSLog(@"feature/1.0.1提交1");
 
 }
+
 
 @end
