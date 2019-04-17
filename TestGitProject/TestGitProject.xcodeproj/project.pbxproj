@@ -13,6 +13,7 @@
 		813C915A2266C56200C982F4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 813C91592266C56200C982F4 /* Assets.xcassets */; };
 		813C915D2266C56200C982F4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813C915B2266C56200C982F4 /* LaunchScreen.storyboard */; };
 		813C91602266C56200C982F4 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 813C915F2266C56200C982F4 /* main.m */; };
+		813C91682266C6C100C982F4 /* DevViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 813C91672266C6C100C982F4 /* DevViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		813C915C2266C56200C982F4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		813C915E2266C56200C982F4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		813C915F2266C56200C982F4 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		813C91662266C6C100C982F4 /* DevViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = DevViewController.h; sourceTree = "<group>"; };
+		813C91672266C6C100C982F4 /* DevViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DevViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,6 +70,8 @@
 				813C915B2266C56200C982F4 /* LaunchScreen.storyboard */,
 				813C915E2266C56200C982F4 /* Info.plist */,
 				813C915F2266C56200C982F4 /* main.m */,
+				813C91662266C6C100C982F4 /* DevViewController.h */,
+				813C91672266C6C100C982F4 /* DevViewController.m */,
 			);
 			path = TestGitProject;
 			sourceTree = "<group>";
@@ -141,6 +146,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				813C91682266C6C100C982F4 /* DevViewController.m in Sources */,
 				813C91552266C56100C982F4 /* ViewController.m in Sources */,
 				813C91602266C56200C982F4 /* main.m in Sources */,
 				813C91522266C56100C982F4 /* AppDelegate.m in Sources */,
