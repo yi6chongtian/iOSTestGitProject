@@ -24,6 +24,11 @@
     NSLog(@"2");
 }
 
+- (void)test1 {
+    
+}
+
+
 /*
 #pragma mark - Navigation
 
