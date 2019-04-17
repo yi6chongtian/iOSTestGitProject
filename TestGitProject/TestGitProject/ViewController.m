@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"dev分支提交");
+    NSLog(@"feature/1.0.0提交");
 }
 
 
