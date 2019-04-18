@@ -38,4 +38,8 @@
 
 }
 
+- (void)test1 {
+    NSLog(@"1");
+}
+
 @end
