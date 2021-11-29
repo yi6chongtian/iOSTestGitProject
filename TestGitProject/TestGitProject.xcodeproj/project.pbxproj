@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3CE13C4E275526A1008D68EF /* TestObject.m in Sources */ = {isa = PBXBuildFile; fileRef = 3CE13C4D275526A1008D68EF /* TestObject.m */; };
 		813C91522266C56100C982F4 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 813C91512266C56100C982F4 /* AppDelegate.m */; };
 		813C91552266C56100C982F4 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 813C91542266C56100C982F4 /* ViewController.m */; };
 		813C91582266C56100C982F4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 813C91562266C56100C982F4 /* Main.storyboard */; };
@@ -18,8 +17,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3CE13C4C275526A0008D68EF /* TestObject.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestObject.h; sourceTree = "<group>"; };
-		3CE13C4D275526A1008D68EF /* TestObject.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestObject.m; sourceTree = "<group>"; };
 		813C914D2266C56100C982F4 /* TestGitProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TestGitProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		813C91502266C56100C982F4 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		813C91512266C56100C982F4 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -75,8 +72,6 @@
 				813C915F2266C56200C982F4 /* main.m */,
 				813C91662266C6C100C982F4 /* DevViewController.h */,
 				813C91672266C6C100C982F4 /* DevViewController.m */,
-				3CE13C4C275526A0008D68EF /* TestObject.h */,
-				3CE13C4D275526A1008D68EF /* TestObject.m */,
 			);
 			path = TestGitProject;
 			sourceTree = "<group>";
@@ -153,7 +148,6 @@
 			files = (
 				813C91682266C6C100C982F4 /* DevViewController.m in Sources */,
 				813C91552266C56100C982F4 /* ViewController.m in Sources */,
-				3CE13C4E275526A1008D68EF /* TestObject.m in Sources */,
 				813C91602266C56200C982F4 /* main.m in Sources */,
 				813C91522266C56100C982F4 /* AppDelegate.m in Sources */,
 			);
